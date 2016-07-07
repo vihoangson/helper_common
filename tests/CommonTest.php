@@ -7,6 +7,8 @@ class CommonTest extends \PHPUnit_Framework_TestCase
 {
     public function testPushAndPop()
     {
+        $this->assertEquals(0, create_form());
+
         $stack = array();
         $this->assertEquals(0, count($stack));
 
