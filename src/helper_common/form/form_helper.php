@@ -1,6 +1,6 @@
 <?php 
 
-	function create(){
+	function create_form(){
 		echo "create form";
 	}
 

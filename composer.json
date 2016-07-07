@@ -13,7 +13,9 @@
   "require-dev": {
   },
   "autoload": {
-    "file":["helper_common/form/form_helper.php"]
+    "files": [
+      "src/helper_common/form/form_helper.php"
+    ]
   },
   "archive": {
   },
