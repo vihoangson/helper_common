@@ -14,7 +14,7 @@
   },
   "autoload": {
     "files": [
-      "src/helper_common/form/form_helper.php"
+      "src/functions.php"
     ]
   },
   "archive": {
