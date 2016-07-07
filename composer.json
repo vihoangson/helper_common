@@ -1,0 +1,22 @@
+{
+  "name": "helper_common",
+  "type": "library",
+  "description": "Helper common",
+  "keywords": ["hoangson", "helper"],
+  "homepage": "http://vihoangson.com",
+  "license": "hoang_son",
+  "authors": [
+    {"name": "Hoang Son", "email": "vihoangson@gmail.com"}
+  ],
+  "require": {
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    
+  },
+  "archive": {
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
